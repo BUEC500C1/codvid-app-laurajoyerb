@@ -14,13 +14,9 @@ Screenshot from Web:
 ### Step 2: Go Through React Native Tutorial
 https://reactnative.dev/docs/tutorial
 
-Screenshot from Mobile iOS:
+Screenshot from Mobile iOS and Mobile Android:
 
-<img src="/images/iOS_step2.PNG" width="30%"/>
-
-Screenshot from Mobile Android:
-
-<img src="/images/android_step2.png" width="30%"/>
+<img src="/images/iOS_step2.PNG" width="30%"/><img src="/images/android_step2.png" width="30%"/>
 
 Screenshot from Web:
 
