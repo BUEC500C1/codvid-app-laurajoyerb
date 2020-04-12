@@ -16,13 +16,13 @@ https://reactnative.dev/docs/tutorial
 
 Screenshot from Mobile iOS:
 
-<img src="/images/mobile_step1.jpeg" width="30%"/>
+<img src="/images/iOS_step2.PNG" width="30%"/>
 
 Screenshot from Mobile Android:
 
-<img src="/images/mobile_step1.jpeg" width="30%"/>
+<img src="/images/android_step2.png" width="30%"/>
 
 Screenshot from Web:
 
-<img src="/images/web_step1.png" width="90%"/>
+<img src="/images/web_step2.png" width="90%"/>
 
