@@ -23,4 +23,5 @@ The CountryScreen allows the user to see information about a particular country 
 
 <img src="./images/country_default.jpg" width=35%/><img src="./images/country_dropdown.PNG" width=35%/>
 <p></p>
+
 <img src="./images/country_date.PNG" width=35%/><img src="./images/country_changed.PNG" width=35%/>
