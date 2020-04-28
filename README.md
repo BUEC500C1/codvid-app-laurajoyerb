@@ -1,31 +1,28 @@
 # COVID-19 React Native Application
 
-### Step 1: Setup the React Native environment
-https://reactnative.dev/docs/environment-setup
+## Screens
 
-Screenshot from Mobile:
+### Home Screen
+The home screen allows navigation to all other screens.
+<img src="./images/home.PNG" width=50%/>
 
-<img src="/images/mobile_step1.jpeg" width="30%"/>
+### Quick Summary
+The SummaryScreen shows the global total for Confirmed cases, Deaths, and Recovered cases. It also calculates the current gobal epicenter for the virus (based on highest number of confirmed cases). It shows the numbers for the global epicenter country as well.
 
-Screenshot from Web:
+<img src="./images/summary.PNG" width=50%/>
 
-<img src="/images/web_step1.png" width="90%"/>
+### World Map
+The GlobalScreen is a Google Map of the globe with markers for every country. Each marker shows the current total for confirmed, deaths, and recovered for that country.
 
-### Step 2: Go Through React Native Tutorial
-https://reactnative.dev/docs/tutorial
+<img src="./images/global_map.PNG" width=49%/>
+<img src="./images/zoomed_map.PNG" width=49%/>
 
-Screenshot from Mobile iOS and Mobile Android:
 
-<img src="/images/iOS_step2.PNG" width="30%"/><img src="/images/android_step2.png" width="30%"/>
+### By Country
+The CountryScreen allows the user to see information about a particular country for any date between January 22nd, 2020 and the current date. The user can select any country from the dropdown and the date from the DatePicker. It then displays the number of confirmed, deaths, and recovered for that date in that country.
 
-Screenshot from Web:
-
-<img src="/images/web_step2.png" width="90%"/>
-
-### Step 3: Display a Map Using MapView
-https://github.com/react-native-community/react-native-maps
-
-Screenshot from Mobile iOS:
-
-<img src="/images/iOS_step3.PNG" width="30%"/>
-
+<img src="./images/country_default.jpg" width=49%/>
+<img src="./images/country_dropdown.PNG" width=49%/>
+<p></p>
+<img src="./images/country_date.PNG" width=49%/>
+<img src="./images/country_changed.PNG" width=49%/>
