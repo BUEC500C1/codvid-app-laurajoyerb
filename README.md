@@ -28,4 +28,3 @@ https://github.com/react-native-community/react-native-maps
 Screenshot from Mobile iOS:
 
 <img src="/images/iOS_step3.PNG" width="30%"/>
-
